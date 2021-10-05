@@ -1,0 +1,58 @@
+{
+  "coursesInfo": [
+    {
+      "coursesId": 101,
+      "courseTitle": "Web Development",
+      "imgUrl": "https://ibb.co/vYT8Vxp",
+      "courseDescription": "Web development is the work involved in developing a Web site for the Internet or an intranet.Web development can range from developing a simple single static page of plain text to complex web applications.",
+      "votes": 100,
+      "ratings": 5,
+      "price": "$63"
+    },
+    {
+      "coursesId": 102,
+      "courseTitle": "Computer Science",
+      "imgUrl": "https://ibb.co/3m2jPh4",
+      "courseDescription": "Computer science is the study of algorithmic processes, computational machines and computation itself.As a discipline, computer science spans a range of topics from theoretical studies of algorithms.",
+      "votes": 98,
+      "ratings": 4.5,
+      "price": "$75"
+    },
+    {
+      "coursesId": 103,
+      "courseTitle": "Data Science",
+      "imgUrl": "https://ibb.co/52dpL9H",
+      "courseDescription": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data.",
+      "votes": 63,
+      "ratings": 4,
+      "price": "$121"
+    },
+    {
+      "coursesId": 104,
+      "courseTitle": "Business Studies",
+      "imgUrl": "https://ibb.co/R3qxYn3",
+      "courseDescription": "Business studies is an academic subject taught in schools and at university level in many countries. Its study combines elements of accountancy.",
+      "votes": 150,
+      "ratings": 5,
+      "price": "$55"
+    },
+    {
+      "coursesId": 105,
+      "courseTitle": "Engineering",
+      "imgUrl": "https://ibb.co/F7nS1c5",
+      "courseDescription": "Engineering is the use of scientific principles to design and build machines, structures, and other items, including bridges, tunnels, roads, vehicles, and buildings.",
+      "votes": 78,
+      "ratings": 4.5,
+      "price": "$150"
+    },
+    {
+      "coursesId": 106,
+      "courseTitle": "Psychology",
+      "imgUrl": "https://ibb.co/64vXrSH",
+      "courseDescription": "Psychology is the science of mind and behavior. Psychology includes the study of conscious and unconscious phenomena, as well as feelings and thought.",
+      "votes": 89,
+      "ratings": 4,
+      "price": "$155"
+    }
+  ]
+}

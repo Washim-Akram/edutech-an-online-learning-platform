@@ -1,0 +1,32 @@
+.header {
+  margin: 100px auto;
+}
+.subject-section-bg {
+  background-color: whitesmoke;
+}
+.subject-section-container {
+  padding-bottom: 100px;
+}
+
+.subject-section-title {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.single-card {
+  transition: 0.5s;
+}
+.single-card:hover {
+  box-shadow: 10px 10px 20px gray;
+  border-radius: 15px;
+  border: 3px solid cyan;
+}
+.cart {
+  padding: 10px;
+  height: 405px;
+  border: 1px solid gray;
+  margin-top: 10px;
+}
+.text-area {
+  text-align: center;
+}
