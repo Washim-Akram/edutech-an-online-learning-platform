@@ -2,9 +2,9 @@
 
 <h1>An Online Learning Platform</h1>
 
-## Netlify Live Website Link
-
-<h2>Edutech Live Website Link : <br/> </h2>
+<h2>Edutech Live Website Link : <br/>
+https://loving-colden-9cdd27.netlify.app/
+ </h2>
 
 # About Edutech :
 
